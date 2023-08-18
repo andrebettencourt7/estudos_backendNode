@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "nome": "Netheland Dwarf",
+        "imagem": "",
+        "descricao": "Coelho anão"
+    },
+    {
+        "id": "02",
+        "nome": "Teddy Dwerg",
+        "imagem": "",
+        "descricao": "Dóceis e calmos"
+    },
+    {
+        "id": "03",
+        "nome": "Dwarf Hotot",
+        "imagem": "",
+        "descricao": "Olhos pretos"
+    },
+    {
+        "id": "04",
+        "nome": "Coelho Mini Rex",
+        "imagem": "",
+        "descricao": "Pelugem especial"
+    },
+    {
+        "id": "05",
+        "nome": "Coelho Mini Lion",
+        "imagem": "",
+        "descricao": "Coelho com juba"
+    }  
+]

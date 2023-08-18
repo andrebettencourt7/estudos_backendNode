@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "nome": "Colisa",
+        "imagem": "",
+        "descricao": "Amigável"
+    },
+    {
+        "id": "02",
+        "nome": "Tetra Neon",
+        "imagem": "",
+        "descricao": "Amigável e coletivo"
+    },
+    {
+        "id": "03",
+        "nome": "Coridora",
+        "imagem": "",
+        "descricao": "Simpático"
+    },
+    {
+        "id": "04",
+        "nome": "Kinguio",
+        "imagem": "",
+        "descricao": "Pacíficos e coletivos"
+    },
+    {
+        "id": "05",
+        "nome": "Molinésia",
+        "imagem": "",
+        "descricao": "Territorialista"
+    }  
+]
