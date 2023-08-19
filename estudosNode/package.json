@@ -1,0 +1,16 @@
+{
+  "name": "estudosnode",
+  "version": "1.0.0",
+  "description": "Aula Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon"
+  },
+  "keywords": [
+    "Aula",
+    "Senai"
+  ],
+  "author": "André Luis",
+  "license": "ISC"
+}
