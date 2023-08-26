@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  },
+  "name": "ex-json",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
