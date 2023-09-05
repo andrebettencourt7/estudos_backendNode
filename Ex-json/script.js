@@ -75,6 +75,6 @@ const server = http.createServer((request, response) => {
 })
 
 
-server.listen(3001, () => {
+server.listen(7001, () => {
     console.log("servidor no ar")
 })
